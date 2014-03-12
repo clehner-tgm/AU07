@@ -14,4 +14,7 @@ public class HelloMethode {
 		System.out.println("Holá " + name);
 	}
 	
+	public static void hi(String name) {
+		System.out.println("Hi " + name);
+	}
 }
