@@ -7,6 +7,7 @@ public class Main {
 		HelloMethode.hello("Cindy");
 		HelloMethode.merhaba("Sarah");
 		HelloMethode.hola("Carlos");
+		HelloMethode.bongiorno("Mario");
 	}
 	
 	
