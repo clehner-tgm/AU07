@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		HelloMethode.hello("Cindy");
 		HelloMethode.merhaba("Sarah");
+		HelloMethode.hola("Carlos");
 	}
 	
 	

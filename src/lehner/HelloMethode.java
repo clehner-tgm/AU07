@@ -10,4 +10,8 @@ public class HelloMethode {
 		System.out.println("Merhaba " + name);
 	}
 	
+	public static void hola(String name) {
+		System.out.println("Holá " + name);
+	}
+	
 }
